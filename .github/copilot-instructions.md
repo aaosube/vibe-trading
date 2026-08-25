@@ -1,0 +1,1 @@
+For market-data tasks, obey `AGENTS.md` and `AI/RULES.md`. Read `AI/current.state` before any raw data. Apply `agent/devil.md` before quantitative conclusions and `agent/no-ai-slop.md` before prose. Never guess missing market data or infer sentiment from activity-only fields.
