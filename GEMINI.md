@@ -1,0 +1,1 @@
+Follow `AGENTS.md`. Use `AI/current.state` as the default market-data context. Apply `agent/devil.md` before quantitative conclusions and `agent/no-ai-slop.md` before user-facing prose. Raw CSV is opt-in evidence only.
